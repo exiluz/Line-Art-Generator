@@ -16,6 +16,7 @@ Run the following:
 git clone https://github.com/ElyxusPH/Line-Art-Generator.git
 cd Line-Art-Generator
 pip install -r requirements.txt
+python3 main.py
 ```
 
 ### Contact
